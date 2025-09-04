@@ -1,7 +1,7 @@
 
 ## Criar uma nova instância
 
-**ATENÇÃO:** antes de acessar a console, é necessário iniciar o lab no [AWS Academy](https://www.awsacademy.com/SiteLogin).
+**ATENÇÃO:** antes de acessar a console, é necessário iniciar o lab no [AWS Academy](https://www.awsacademy.com/vforcesite/LMS_Login).
 
 1. Acessar a [console do AWS](https://console.aws.amazon.com);
 2. Escolher a região us-east-1 (N. Virginia);
@@ -64,3 +64,4 @@ Obs: O IP publico da VM pode ser obitido na interface Web do serviço EC2.
 ```
 deactivate
 ```
+
