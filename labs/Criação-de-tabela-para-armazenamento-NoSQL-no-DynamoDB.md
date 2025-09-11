@@ -29,7 +29,8 @@ pip install -r requirements.txt
     * Observação: nesse ponto será necessário obter credenciais de acesso para a API do AWS. Para usuário AWS Educate, essas credenciais podem ser obtidas no botão Account Details;
 
 5. Configure as chaves de autenticação da AWS usando variáveis de ambiente conforme abaixo e execute o servidor:
- 
+
+```
 export AWS_ACCESS_KEY_ID=""
 export AWS_SECRET_ACCESS_KEY=""
 export AWS_SESSION_TOKEN=""
@@ -46,3 +47,4 @@ Obs: necessário liberar a porta TCP 8080 no Security Group (firewall) da máqui
 
 
 6. Entrar novamente na console do serviço DynamoDB e listar o conteúdo da tabela através da opção "Explore table items".
+
